@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Eunice-Serani
-- 👀 I’m interested in anything tech hub
-- 🌱 I’m currently learning @ ALX Software Engineering ALX AI Career Essentials
+- 👋 Hi there, I’m Eunice-Serani
+- 👀 I’m much interested in anything tech hub
+- 🌱 I’m currently learning @ ALX Software Engineering ALX AI Career Essentials and a Full Stack software Engineer
 - 💞️ I’m looking forward to collaborate on ALXSE and ALX AICE to upgrade my potentials
 - 📫 How to reach me @Twitter X euniceamable, Linkedin
 - 😄 Pronouns: ...
